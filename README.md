@@ -3,15 +3,6 @@
 Professional portfolio website developed using React and Vite to showcase frontend development skills, technical projects, and modern web design practices through a responsive and high-performance user interface.
 
 ---
-
-# Live Demo
-
-| Platform | URL |
-|----------|-----|
-| GitHub Pages | https://ravneet-project.github.io/Ravneet-portfolio/ |
-
----
-
 # Project Overview
 
 The Ravneet Portfolio project is a modern single-page web application created to represent personal projects, technical expertise, and development capabilities in a professional manner.
